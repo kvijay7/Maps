@@ -1,0 +1,572 @@
+[
+{
+   "ID":38449,
+   "post_author":10,
+   "post_date":"2018-02-09 20:19:24",
+   "post_date_gmt":"2018-02-09 20:19:24",
+   "post_content":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health. ",
+   "post_title":"Water Works, Sewerage and Sewage Disposal Regulation, Man Reg 331\/88 R",
+   "post_excerpt":"",
+   "post_status":"publish",
+   "comment_status":0,
+   "ping_status":0,
+   "post_password":"",
+   "post_name":"ppd998",
+   "to_ping":"",
+   "pinged":"",
+   "post_modified":"2018-02-09 20:19:24",
+   "post_modified_gmt":"2018-02-09 20:19:24",
+   "post_content_filtered":"",
+   "post_parent":0,
+   "guid":"",
+   "menu_order":0,
+   "post_type":"db-prevention-policy",
+   "post_mime_type":"",
+   "comment_count":0,
+   "filter":"raw",
+   "site_id":1,
+   "permalink":"https:\/\/dev.partnershipagainstcancer.ca\/preventionpoliciesdirectory\/ppd998\/",
+   "terms":{
+      "dbt-jurisdiction":[
+         {
+            "term_id":227,
+            "slug":"dbv-federal",
+            "name":"Federal",
+            "parent":0,
+            "term_taxonomy_id":227
+         }
+      ],
+      "dbt-legislation-type":[
+         {
+            "term_id":244,
+            "slug":"dbv-regulation",
+            "name":"Regulation",
+            "parent":0,
+            "term_taxonomy_id":244
+         }
+      ],
+      "dbt-venue":[
+         {
+            "term_id":444,
+            "slug":"dbv-population-community-wide",
+            "name":"Population\/community-wide",
+            "parent":0,
+            "term_taxonomy_id":444
+         }
+      ],
+      "dbt-geographic-specificity":[
+         {
+            "term_id":166,
+            "slug":"dbv-manitoba",
+            "name":"Manitoba",
+            "parent":0,
+            "term_taxonomy_id":166
+         }
+      ],
+      "dbt-risk-factors":[
+         {
+            "term_id":300,
+            "slug":"dbv-occupational-environmental-exposures",
+            "name":"Occupational & environmental exposures",
+            "parent":0,
+            "term_taxonomy_id":300
+         }
+      ]
+   },
+   "meta":{
+      "url":[
+         {
+            "value":"http:\/\/www.canlii.org\/en\/mb\/laws\/regu\/man-reg-331-88-r\/latest\/man-reg-331-88-r.html",
+            "raw":"http:\/\/www.canlii.org\/en\/mb\/laws\/regu\/man-reg-331-88-r\/latest\/man-reg-331-88-r.html",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "keywords":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year-of-adoption":[
+         {
+            "value":"1988",
+            "raw":"1988",
+            "long":1988,
+            "double":1988,
+            "boolean":false,
+            "date":"1988-02-12",
+            "datetime":"1988-02-12 18:17:09",
+            "time":"18:17:09"
+         }
+      ],
+      "year-repealed":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year-last-amended":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "related-document":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "evidence-link":[
+         {
+            "value":"[\n    {\n        \"title\": \"Vinyl Chloride\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/vinyl_chloride\/\"\n    },\n    {\n        \"title\": \"Formaldehyde\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/formaldehyde\/\"\n    },\n    {\n        \"title\": \"Arsenic\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/arsenic\/\"\n    },\n    {\n        \"title\": \"Chloroform\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chloroform\/\"\n    },\n    {\n        \"title\": \"Tetrachloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/tetrachloroethylene\/\"\n    },\n    {\n        \"title\": \"Trichloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/trichloroethylene\/\"\n    },\n    {\n        \"title\": \"Polychlorinated Biphenyls\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/polychlorinated_biphenyls\/\"\n    },\n    {\n        \"title\": \"Chlorination by-products\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chlorination\/\"\n    },\n    {\n        \"title\": \"Chromium VI\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chromium_(hexavalent)\/\"\n    },\n    {\n        \"title\": \"Bromodichloromethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/bromodichloromethane\/\"\n    },\n    {\n        \"title\": \"1,2-Dichloroethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/1,2-dichloroethane\/\"\n    }\n]",
+            "raw":"[\n    {\n        \"title\": \"Vinyl Chloride\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/vinyl_chloride\/\"\n    },\n    {\n        \"title\": \"Formaldehyde\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/formaldehyde\/\"\n    },\n    {\n        \"title\": \"Arsenic\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/arsenic\/\"\n    },\n    {\n        \"title\": \"Chloroform\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chloroform\/\"\n    },\n    {\n        \"title\": \"Tetrachloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/tetrachloroethylene\/\"\n    },\n    {\n        \"title\": \"Trichloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/trichloroethylene\/\"\n    },\n    {\n        \"title\": \"Polychlorinated Biphenyls\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/polychlorinated_biphenyls\/\"\n    },\n    {\n        \"title\": \"Chlorination by-products\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chlorination\/\"\n    },\n    {\n        \"title\": \"Chromium VI\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chromium_(hexavalent)\/\"\n    },\n    {\n        \"title\": \"Bromodichloromethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/bromodichloromethane\/\"\n    },\n    {\n        \"title\": \"1,2-Dichloroethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/1,2-dichloroethane\/\"\n    }\n]",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "short-description":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "long-description":[
+         {
+            "value":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health.",
+            "raw":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health.",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "geo-coordinates":[
+         {
+            "value":"{\n    \"latitude\": \"49.8994986\",\n    \"longitude\": \"-97.138924\"\n}",
+            "raw":"{\n    \"latitude\": \"49.8994986\",\n    \"longitude\": \"-97.138924\"\n}",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ]
+   },
+   "elasticsearch":true
+},
+{
+   "ID":38449,
+   "post_author":10,
+   "post_date":"2018-02-09 20:19:24",
+   "post_date_gmt":"2018-02-09 20:19:24",
+   "post_content":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health. ",
+   "post_title":"Water Works, Sewerage and Sewage Disposal Regulation, Man Reg 331\/88 R",
+   "post_excerpt":"",
+   "post_status":"publish",
+   "comment_status":0,
+   "ping_status":0,
+   "post_password":"",
+   "post_name":"ppd998",
+   "to_ping":"",
+   "pinged":"",
+   "post_modified":"2018-02-09 20:19:24",
+   "post_modified_gmt":"2018-02-09 20:19:24",
+   "post_content_filtered":"",
+   "post_parent":0,
+   "guid":"",
+   "menu_order":0,
+   "post_type":"db-prevention-policy",
+   "post_mime_type":"",
+   "comment_count":0,
+   "filter":"raw",
+   "site_id":1,
+   "permalink":"https:\/\/dev.partnershipagainstcancer.ca\/preventionpoliciesdirectory\/ppd998\/",
+   "terms":{
+      "dbt-jurisdiction":[
+         {
+            "term_id":228,
+            "slug":"dbv-municipal",
+            "name":"Municipal\/Regional",
+            "parent":0,
+            "term_taxonomy_id":228
+         }
+      ],
+      "dbt-legislation-type":[
+         {
+            "term_id":244,
+            "slug":"dbv-regulation",
+            "name":"Regulation",
+            "parent":0,
+            "term_taxonomy_id":244
+         }
+      ],
+      "dbt-venue":[
+         {
+            "term_id":444,
+            "slug":"dbv-population-community-wide",
+            "name":"Population\/community-wide",
+            "parent":0,
+            "term_taxonomy_id":444
+         }
+      ],
+      "dbt-geographic-specificity":[
+         {
+            "term_id":166,
+            "slug":"dbv-manitoba",
+            "name":"Manitoba",
+            "parent":0,
+            "term_taxonomy_id":166
+         }
+      ],
+      "dbt-risk-factors":[
+         {
+            "term_id":300,
+            "slug":"dbv-occupational-environmental-exposures",
+            "name":"Occupational & environmental exposures",
+            "parent":0,
+            "term_taxonomy_id":300
+         }
+      ]
+   },
+   "meta":{
+      "url":[
+         {
+            "value":"http:\/\/www.canlii.org\/en\/mb\/laws\/regu\/man-reg-331-88-r\/latest\/man-reg-331-88-r.html",
+            "raw":"http:\/\/www.canlii.org\/en\/mb\/laws\/regu\/man-reg-331-88-r\/latest\/man-reg-331-88-r.html",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "keywords":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year-of-adoption":[
+         {
+            "value":"1988",
+            "raw":"1988",
+            "long":1988,
+            "double":1988,
+            "boolean":false,
+            "date":"1988-02-12",
+            "datetime":"1988-02-12 18:17:09",
+            "time":"18:17:09"
+         }
+      ],
+      "year-repealed":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year-last-amended":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "related-document":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "evidence-link":[
+         {
+            "value":"[\n    {\n        \"title\": \"Vinyl Chloride\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/vinyl_chloride\/\"\n    },\n    {\n        \"title\": \"Formaldehyde\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/formaldehyde\/\"\n    },\n    {\n        \"title\": \"Arsenic\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/arsenic\/\"\n    },\n    {\n        \"title\": \"Chloroform\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chloroform\/\"\n    },\n    {\n        \"title\": \"Tetrachloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/tetrachloroethylene\/\"\n    },\n    {\n        \"title\": \"Trichloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/trichloroethylene\/\"\n    },\n    {\n        \"title\": \"Polychlorinated Biphenyls\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/polychlorinated_biphenyls\/\"\n    },\n    {\n        \"title\": \"Chlorination by-products\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chlorination\/\"\n    },\n    {\n        \"title\": \"Chromium VI\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chromium_(hexavalent)\/\"\n    },\n    {\n        \"title\": \"Bromodichloromethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/bromodichloromethane\/\"\n    },\n    {\n        \"title\": \"1,2-Dichloroethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/1,2-dichloroethane\/\"\n    }\n]",
+            "raw":"[\n    {\n        \"title\": \"Vinyl Chloride\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/vinyl_chloride\/\"\n    },\n    {\n        \"title\": \"Formaldehyde\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/formaldehyde\/\"\n    },\n    {\n        \"title\": \"Arsenic\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/arsenic\/\"\n    },\n    {\n        \"title\": \"Chloroform\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chloroform\/\"\n    },\n    {\n        \"title\": \"Tetrachloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/tetrachloroethylene\/\"\n    },\n    {\n        \"title\": \"Trichloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/trichloroethylene\/\"\n    },\n    {\n        \"title\": \"Polychlorinated Biphenyls\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/polychlorinated_biphenyls\/\"\n    },\n    {\n        \"title\": \"Chlorination by-products\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chlorination\/\"\n    },\n    {\n        \"title\": \"Chromium VI\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chromium_(hexavalent)\/\"\n    },\n    {\n        \"title\": \"Bromodichloromethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/bromodichloromethane\/\"\n    },\n    {\n        \"title\": \"1,2-Dichloroethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/1,2-dichloroethane\/\"\n    }\n]",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "short-description":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "long-description":[
+         {
+            "value":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health.",
+            "raw":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health.",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "geo-coordinates":[
+         {
+            "value":"{\n    \"latitude\": \"49.8994986\",\n    \"longitude\": \"-97.138924\"\n}",
+            "raw":"{\n    \"latitude\": \"49.8994986\",\n    \"longitude\": \"-97.138924\"\n}",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ]
+   },
+   "elasticsearch":true
+},
+{
+   "ID":38449,
+   "post_author":10,
+   "post_date":"2018-02-09 20:19:24",
+   "post_date_gmt":"2018-02-09 20:19:24",
+   "post_content":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health. ",
+   "post_title":"Water Works, Sewerage and Sewage Disposal Regulation, Man Reg 331\/88 R",
+   "post_excerpt":"",
+   "post_status":"publish",
+   "comment_status":0,
+   "ping_status":0,
+   "post_password":"",
+   "post_name":"ppd998",
+   "to_ping":"",
+   "pinged":"",
+   "post_modified":"2018-02-09 20:19:24",
+   "post_modified_gmt":"2018-02-09 20:19:24",
+   "post_content_filtered":"",
+   "post_parent":0,
+   "guid":"",
+   "menu_order":0,
+   "post_type":"db-prevention-policy",
+   "post_mime_type":"",
+   "comment_count":0,
+   "filter":"raw",
+   "site_id":1,
+   "permalink":"https:\/\/dev.partnershipagainstcancer.ca\/preventionpoliciesdirectory\/ppd998\/",
+   "terms":{
+      "dbt-jurisdiction":[
+         {
+            "term_id":229,
+            "slug":"dbv-provincial-territorial",
+            "name":"Provincial\/Territorial",
+            "parent":0,
+            "term_taxonomy_id":229
+         }
+      ],
+      "dbt-legislation-type":[
+         {
+            "term_id":244,
+            "slug":"dbv-regulation",
+            "name":"Regulation",
+            "parent":0,
+            "term_taxonomy_id":244
+         }
+      ],
+      "dbt-venue":[
+         {
+            "term_id":444,
+            "slug":"dbv-population-community-wide",
+            "name":"Population\/community-wide",
+            "parent":0,
+            "term_taxonomy_id":444
+         }
+      ],
+      "dbt-geographic-specificity":[
+         {
+            "term_id":166,
+            "slug":"dbv-manitoba",
+            "name":"Manitoba",
+            "parent":0,
+            "term_taxonomy_id":166
+         }
+      ],
+      "dbt-risk-factors":[
+         {
+            "term_id":300,
+            "slug":"dbv-occupational-environmental-exposures",
+            "name":"Occupational & environmental exposures",
+            "parent":0,
+            "term_taxonomy_id":300
+         }
+      ]
+   },
+   "meta":{
+      "url":[
+         {
+            "value":"http:\/\/www.canlii.org\/en\/mb\/laws\/regu\/man-reg-331-88-r\/latest\/man-reg-331-88-r.html",
+            "raw":"http:\/\/www.canlii.org\/en\/mb\/laws\/regu\/man-reg-331-88-r\/latest\/man-reg-331-88-r.html",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "keywords":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year-of-adoption":[
+         {
+            "value":"1988",
+            "raw":"1988",
+            "long":1988,
+            "double":1988,
+            "boolean":false,
+            "date":"1988-02-12",
+            "datetime":"1988-02-12 18:17:09",
+            "time":"18:17:09"
+         }
+      ],
+      "year-repealed":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "year-last-amended":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "related-document":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "evidence-link":[
+         {
+            "value":"[\n    {\n        \"title\": \"Vinyl Chloride\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/vinyl_chloride\/\"\n    },\n    {\n        \"title\": \"Formaldehyde\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/formaldehyde\/\"\n    },\n    {\n        \"title\": \"Arsenic\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/arsenic\/\"\n    },\n    {\n        \"title\": \"Chloroform\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chloroform\/\"\n    },\n    {\n        \"title\": \"Tetrachloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/tetrachloroethylene\/\"\n    },\n    {\n        \"title\": \"Trichloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/trichloroethylene\/\"\n    },\n    {\n        \"title\": \"Polychlorinated Biphenyls\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/polychlorinated_biphenyls\/\"\n    },\n    {\n        \"title\": \"Chlorination by-products\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chlorination\/\"\n    },\n    {\n        \"title\": \"Chromium VI\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chromium_(hexavalent)\/\"\n    },\n    {\n        \"title\": \"Bromodichloromethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/bromodichloromethane\/\"\n    },\n    {\n        \"title\": \"1,2-Dichloroethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/1,2-dichloroethane\/\"\n    }\n]",
+            "raw":"[\n    {\n        \"title\": \"Vinyl Chloride\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/vinyl_chloride\/\"\n    },\n    {\n        \"title\": \"Formaldehyde\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/formaldehyde\/\"\n    },\n    {\n        \"title\": \"Arsenic\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/arsenic\/\"\n    },\n    {\n        \"title\": \"Chloroform\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chloroform\/\"\n    },\n    {\n        \"title\": \"Tetrachloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/tetrachloroethylene\/\"\n    },\n    {\n        \"title\": \"Trichloroethylene\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/trichloroethylene\/\"\n    },\n    {\n        \"title\": \"Polychlorinated Biphenyls\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/polychlorinated_biphenyls\/\"\n    },\n    {\n        \"title\": \"Chlorination by-products\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chlorination\/\"\n    },\n    {\n        \"title\": \"Chromium VI\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/chromium_(hexavalent)\/\"\n    },\n    {\n        \"title\": \"Bromodichloromethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/bromodichloromethane\/\"\n    },\n    {\n        \"title\": \"1,2-Dichloroethane\",\n        \"url\": \"http:\/\/www.carexcanada.ca\/en\/1,2-dichloroethane\/\"\n    }\n]",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "short-description":[
+         {
+            "value":"",
+            "raw":"",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "long-description":[
+         {
+            "value":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health.",
+            "raw":"This regulation outlines measures that must be taken by a municipality, sanitary district, or person who wishes to construct, alter, or operate a common sewer, sewerage system or system of sewerage treatment and disposal in order to protect environmental and public health.",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ],
+      "geo-coordinates":[
+         {
+            "value":"{\n    \"latitude\": \"49.8994986\",\n    \"longitude\": \"-97.138924\"\n}",
+            "raw":"{\n    \"latitude\": \"49.8994986\",\n    \"longitude\": \"-97.138924\"\n}",
+            "boolean":false,
+            "date":"1971-01-01",
+            "datetime":"1971-01-01 00:00:01",
+            "time":"00:00:01"
+         }
+      ]
+   },
+   "elasticsearch":true
+}
+]
